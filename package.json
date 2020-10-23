@@ -1,5 +1,5 @@
 {
-  "name": "jmespath",
+  "name": "@alexander-gush/jmespath",
   "description": "JMESPath implementation in javascript",
   "version": "0.15.0",
   "author": {
