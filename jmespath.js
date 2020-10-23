@@ -1322,7 +1322,7 @@
     },
 
     _functionStartsWith: function(resolvedArgs) {
-        return resolvedArgs[0].lastIndexOf(resolvedArgs[1]) === 0;
+        return resolvedArgs[0].startsWith(resolvedArgs[1]);
     },
 
     _functionEndsWith: function(resolvedArgs) {
