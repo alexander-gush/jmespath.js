@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jmespath/jmespath.js"
+    "url": "git://github.com/alexander-gush/jmespath.js"
   },
   "bugs": {
     "url": "http://github.com/jmespath/jmespath.js/issues",
